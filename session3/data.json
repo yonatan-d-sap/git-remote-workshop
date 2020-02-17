@@ -1,0 +1,32 @@
+{
+  "flower_data": [
+    {
+      "name": "Daisies",
+      "cost": 12
+    },
+    {
+      "name": "Orchids",
+      "cost": 33
+    },
+    {
+      "name": "Roses",
+      "cost": 45
+    },
+    {
+      "name": "Lilies",
+      "cost": 27
+    },
+    {
+      "name": "Sunflowers",
+      "cost": 31
+    },
+    {
+      "name": "Tulips",
+      "cost": 11
+    },
+    {
+      "name": "Lavender",
+      "cost": 60
+    }
+  ]
+}
