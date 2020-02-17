@@ -19,7 +19,7 @@ echo "2nd line added from my-new-branch" >> somefile.txt
 git add somefile.txt
 git commit –m “added more text to somefile.txt”
 git checkout master
-gir merge my-new-branch
+git merge my-new-branch
 # 2nd assignment
 git checkout -b add-multiple-commits
 echo "This is file #1" >> file1.txt
